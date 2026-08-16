@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="168" height="32" viewBox="0 0 168 32" role="img" aria-label="Resolve in XHawk">
-  <rect x="0.5" y="0.5" width="167" height="31" rx="15.5" fill="#5A1BA9"/>
-  <rect x="0.5" y="0.5" width="167" height="31" rx="15.5" fill="none" stroke="#ffffff" stroke-opacity="0.25"/>
-  <text x="16" y="16.5" dominant-baseline="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" font-weight="600" letter-spacing="0.2" fill="#ffffff">Resolve in XHawk</text>
-  <path d="M142.8 11.5 L147.8 16.0 L142.8 20.5" fill="none" stroke="#ffffff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="189" height="32" viewBox="0 0 189 32" role="img" aria-label="Resolve All in XHawk">
+  <rect x="0.5" y="0.5" width="188" height="31" rx="15.5" fill="#5A1BA9"/>
+  <rect x="0.5" y="0.5" width="188" height="31" rx="15.5" fill="none" stroke="#ffffff" stroke-opacity="0.25"/>
+  <text x="16" y="16.5" dominant-baseline="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" font-weight="600" letter-spacing="0.2" fill="#ffffff">Resolve All in XHawk</text>
+  <path d="M164.0 11.5 L169.0 16.0 L164.0 20.5" fill="none" stroke="#ffffff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>
