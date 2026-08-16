@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="75" height="22" viewBox="0 0 75 22" role="img" aria-label="Critical">
+  <rect x="0.5" y="0.5" width="74" height="21" rx="10.5" fill="#cf222e"/>
+  <rect x="0.5" y="0.5" width="74" height="21" rx="10.5" fill="none" stroke="#ffffff" stroke-opacity="0.22"/>
+  <circle cx="12.2" cy="11.0" r="3.2" fill="#ffffff" fill-opacity="0.9"/>
+  <text x="21.4" y="11.5" dominant-baseline="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" font-weight="600" letter-spacing="0.2" fill="#ffffff">Critical</text>
+</svg>
